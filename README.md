@@ -25,14 +25,6 @@ A modern and responsive car showcase website built to display luxury, sports, an
 
 ---
 
-## 📸 Preview
-
-Add screenshots of your website here.
-
-```bash
-/screenshots/home.png
-```
-
 ---
 
 ## 🚀 Live Demo
@@ -40,7 +32,7 @@ Add screenshots of your website here.
 Add your website link here.
 
 ```bash
-https://yourwebsite.com
+https://cars-website-xi-hazel.vercel.app/
 ```
 
 ---
